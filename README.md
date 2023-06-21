@@ -27,9 +27,9 @@ Reglas del negocio
 
 Fracción 15 minutos (sin tolerancia – fracción menor se toma 15 minutos)
 			
-   		moto $ 30.00 	    Estadía $1300.00
-		Auto $ 50.00 	    Estadía $3000.00
-		Pick up $ 80.00     Estadía $4500.00
+   		Fracción 15 minutos Moto $ 30.00 	    Estadía $1300.00
+		Fracción 15 minutos Auto $ 50.00 	    Estadía $3000.00
+		Fracción 15 minutos Pick up $ 80.00         Estadía $4500.00
 --------------------------------------------------------------------------------------		 
 		
   	f. Al ingresar el vehículo debe tomarse la patente del mismo, la hora y fecha se toma del sistema
